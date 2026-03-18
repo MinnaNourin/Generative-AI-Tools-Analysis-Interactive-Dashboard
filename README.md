@@ -1,45 +1,92 @@
 # 🧠 Generative AI Tools – Data Analysis
 
-This project explores and visualizes data about various **Generative AI tools** using Python.  
-The analysis focuses on understanding tool categories, modalities, and API availability through clear and interactive visualizations.
+This project analyzes a dataset of Generative AI tools to identify patterns in categories, modalities, and API availability.  
+The goal is to extract meaningful insights that reflect trends in the evolving AI ecosystem.
 
 ---
 
-## 📊 Project Overview
+## 📌 Problem Statement
 
-Generative AI tools are rapidly transforming industries — from text and image generation to code assistance and multimodal capabilities.  
-This analysis uses Python’s data visualization libraries to uncover insights such as:
+With the rapid growth of Generative AI tools, it becomes difficult to understand:
+- Which categories dominate the market  
+- How different modalities (text, image, video, etc.) are distributed  
+- The accessibility of tools through APIs or open-source availability  
 
-- Which categories of AI tools are most common  
-- How modalities (text, image, video, etc.) are distributed  
-- The availability of APIs and open-source options
+This project aims to explore these aspects through structured data analysis and visualization.
 
 ---
 
-## 🧩 Features
+## 📊 Approach
 
 - Data cleaning and preprocessing using **Pandas**
-- Category vs. Modality visualization using **Seaborn heatmaps**
-- API availability and open-source status analysis
-- Easy-to-read, notebook-based workflow for reproducibility
+- Exploratory Data Analysis (EDA)
+- Visualization using **Matplotlib** and **Seaborn**
+- Comparative analysis across categories and modalities
+
+---
+
+## 📈 Key Insights
+
+- Certain categories (e.g., text-based tools) show higher concentration compared to others  
+- Multimodal tools are emerging but less dominant than single-modality tools  
+- A significant portion of tools provide API access, indicating a strong developer ecosystem  
+- Open-source tools are fewer but play a key role in innovation  
+
+---
+
+## 📊 Visualizations
+
+- Heatmap: Category vs Modality distribution  
+- Bar charts: API availability and open-source comparison  
+- Distribution plots for tool classification  
+
+*(Add screenshots of your graphs here for better impact)*
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
-|------|----------|
-| **Python** | Programming language |
-| **Pandas, NumPy** | Data manipulation and analysis |
-| **Matplotlib, Seaborn** | Data visualization |
-| **Jupyter Notebook** | Interactive environment for analysis |
+|------|--------|
+| Python | Programming |
+| Pandas, NumPy | Data processing |
+| Matplotlib, Seaborn | Visualization |
+| Jupyter Notebook | Analysis environment |
 
 ---
 
-## 📁 File
+## 📁 Project Structure
+Generative-AI-Tools-Data-Analysis/
+│
+└── Generative AI Tools.ipynb
 
-- `Generative AI Tools.ipynb` → Main analysis notebook containing code, insights, and visualizations.
+---
 
-## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/minnanourin/)
-- [GitHub](https://github.com/MinnaNourin)
+## 📊 Skills Demonstrated
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Interpretation  
+- Insight Generation from Real-World Data  
+
+---
+
+## 🚀 Future Improvements
+
+- Add interactive dashboards (Power BI / Streamlit)  
+- Include time-based trend analysis  
+- Expand dataset for deeper insights  
+
+---
+
+## 📌 Conclusion
+
+This analysis highlights key patterns in the Generative AI landscape, particularly the dominance of certain categories and the growing importance of API accessibility.  
+Such insights can help understand market trends and guide future development strategies.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/minnanourin  
+- GitHub: https://github.com/MinnaNourin  
