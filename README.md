@@ -40,7 +40,37 @@ This project aims to explore these aspects through structured data analysis and 
 - Bar charts: API availability and open-source comparison  
 - Distribution plots for tool classification  
 
-*(Add screenshots of your graphs here for better impact)*
+## 📊 Visualizations
+
+### 🔹 Category vs Modality Heatmap
+![Category vs Modality Heatmap](heatmap.png)
+
+Shows the relationship between AI tool categories and modalities, highlighting dominant combinations.  
+Indicates areas of specialization versus emerging multimodal trends.
+
+---
+
+### 🔹 API Availability Analysis
+![API Availability](api_chart.png)
+
+Compares tools with and without API access.  
+A higher share of API-enabled tools suggests strong developer integration and ecosystem maturity.
+
+---
+
+### 🔹 Modality Distribution
+![Modality Distribution](modality.png)
+
+Displays how tools are distributed across modalities such as text, image, and video.  
+Highlights the dominance of certain modalities and growth potential in others.
+
+---
+
+### 🔹 Category Distribution
+![Category Distribution](category.png)
+
+Shows the frequency of tools across different categories.  
+Identifies dominant segments and potential niche areas.
 
 ---
 
