@@ -1,6 +1,5 @@
 # 🧠 Generative AI Tools – Data Analysis & Dashboard
 
-## 📌 Overview
 This project analyzes a dataset of Generative AI tools to uncover trends in categories, modalities, and API availability.
 
 It is further enhanced with an **interactive Power BI dashboard**, enabling dynamic exploration of insights.
@@ -52,33 +51,31 @@ Displays spread across text, image, video, etc.
 Identifies dominant and niche AI tool segments.
 
 ---
-
 ## 📊 Project Preview
 
 ### 🔹 Power BI Dashboard
 
 #### Dashboard Overview
-![Dashboard Overview](dashboard_overview.png)
+<img src="dashboard_overview.png" width="700"/>
 
-#### Data Analysis View (from Dashboard)
-![Dashboard Analysis](data_analysis.png)
+#### Data Analysis View
+<img src="data_analysis.png" width="700"/>
 
 ---
 
-### 🔹 Key Data Analysis Visualizations (Python EDA)
+### 🔹 Key Data Analysis Visualizations
 
 #### Category vs Modality Heatmap
-![Heatmap](heatmap.png)
+<img src="heatmap.png" width="500"/>
 
 #### API Availability Analysis
-![API Chart](api_chart.png)
+<img src="api_chart.png" width="500"/>
 
 #### Modality Distribution
-![Modality](modality.png)
+<img src="modality.png" width="500"/>
 
 #### Category Distribution
-![Category](category.png)
-
+<img src="category.png" width="500"/>
 ---
 
 
